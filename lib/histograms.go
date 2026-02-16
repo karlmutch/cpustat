@@ -25,7 +25,7 @@
 package cpustat
 
 import (
-	"github.com/codahale/hdrhistogram"
+	"github.com/HdrHistogram/hdrhistogram-go"
 )
 
 const histMin = 0
